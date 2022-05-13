@@ -52,9 +52,13 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
 
+### Zero Bot:
+<a href="https://top.gg/bot/518848646016401434">
+  <img src="https://top.gg/api/widget/518848646016401434.svg">
+</a>
 
 
-## Github Stats
+## Github Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p <div align = "center"> <img src = "https://discord.c99.nl/widget/theme-2/349942964904001546.png"></div>
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p>
 
