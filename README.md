@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 <a href="mailto: notzero0@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
 
-<img height="32" width="32" src="https://simpleicons.org/icons/railway.svg/simple-icons@v7/icons/[ICON SLUG].svg" />
+![](https://komarev.com/ghpvc/?username=devsmsm&color=yellow&style=flat-square)
