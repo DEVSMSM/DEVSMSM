@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 ## Github Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p <div align = "center"> <img src = "https://discord.c99.nl/widget/theme-2/349942964904001546.png"></div>
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p>
+
 ![](https://komarev.com/ghpvc/?username=devsmsm&color=yellow&style=for-the-badge)
 ### You can find me here:
 <a href="https://discord.gg/RMEQSbMtEk" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
