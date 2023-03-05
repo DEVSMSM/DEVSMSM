@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I'm SmSm - [Zero Codes](https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q) 👋
+# Hello! I'm SmSm - [Zero Codes](https://notsmsm.xyz) 👋
 
-### I'm Not developer, Im Just Coder, and a Discord bot Coder!
+### I'm Backend Developer, Developing Discord Bots and Modules!
 - 📚 I'm currently learning networking, docker
 - 🎥 I upload Youtube tutorial videos
 - ⚡ I code in Node.js
