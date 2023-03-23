@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
 <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> </a>
 
+### Zero Developer's
+<iframe src="https://discord.com/widget?id=111226773361971200&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ### Zero Bot:
 <a href="https://top.gg/bot/518848646016401434">
   <img src="https://top.gg/api/widget/518848646016401434.svg">
